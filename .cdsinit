@@ -1,0 +1,4 @@
+cdsgit_path = "/home/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/git-integration/cdsgit"
+setShellEnvVar( strcat("CDSGIT_PATH=" cdsgit_path) )
+loadi( strcat(cdsgit_path "/load_cdsgit.il") )
+
