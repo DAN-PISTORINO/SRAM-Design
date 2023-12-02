@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'COL_DECODER layout SRAM8':
+  info: Assign pin label "VSS" at (0.0400, -1.0800) to layer `metal1_conn'.
+  info: Assign pin label "A" at (-1.1750, 0.4400) to layer `metal1_conn'.
+  info: Assign pin label "CLK" at (-1.1200, 0.6700) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (-0.4300, 1.1650) to layer `metal1_conn'.
+  info: Assign pin label "BL1" at (1.2950, -0.4650) to layer `metal1_conn'.
+  info: Assign pin label "BL0" at (1.2950, 0.7250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

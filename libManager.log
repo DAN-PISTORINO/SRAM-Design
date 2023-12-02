@@ -1,7 +1,7 @@
 \o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 04/25/2022 00:14 (sjfdcl1109) $
 \o Sub version:		sub-version  s254 
-\o Arguments:		-unmapped -mpssession virtuoso7884 -mpshost ece-n288-lnx19 
-\o Working Directory:	ece-n288-lnx19:/ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design
+\o Arguments:		-unmapped -mpssession virtuoso90823 -mpshost ece-lnx-10 
+\o Working Directory:	ece-lnx-10:/ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design
 \o 64-bit offsets
 \o Qt version: 		5.9.1
 \o Loading customization file "./cdsLibMgr.il"
@@ -13,141 +13,329 @@
 \o MPS service: map window
 \o Library Manager customization server connected.
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(60 178 1024 665))
-\a cdsLibManager->libListBox->value = "basic"
-\a cdsLibManager->libLineEdit->value = "basic"
+\a nrResizeWindow(cdsLibManager list(561 203 930 701))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS request: update library list
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->libListBox->value = "GDS"
+\a cdsLibManager->libLineEdit->value = "GDS"
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->libListBox->value = "GDS"
+\a cdsLibManager->libLineEdit->value = "GDS"
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup1" 89 244 2 "")
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a lmgrLogShowPopup("mainListPopup1" 90 245 2 "")
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup1" 113 182 2 "")
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup1" 74 214 2 "")
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->cellListBox->value = "sram_array"
+\a cdsLibManager->cellLineEdit->value = "sram_array"
+\a cdsLibManager->libListBox->value = "GDS"
+\a cdsLibManager->libLineEdit->value = "GDS"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a lmgrLogShowPopup("mainListPopup1" 78 227 2 "")
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(960 34 930 701))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(957 40 930 701))
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "COL_DECODER"
+\a cdsLibManager->cellLineEdit->value = "COL_DECODER"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a lmgrLogShowPopup("mainListPopup2" 140 94 2 "")
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a cdsLibManager->cellListBox->value = "COL_DECODER"
+\a cdsLibManager->cellLineEdit->value = "COL_DECODER"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(1990 170 930 701))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(1941 154 930 701))
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "column_decoder"
+\a cdsLibManager->cellLineEdit->value = "column_decoder"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "row_decoder"
+\a cdsLibManager->cellLineEdit->value = "row_decoder"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "column_decoder"
+\a cdsLibManager->cellLineEdit->value = "column_decoder"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 2 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(806 83 930 701))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(679 62 930 701))
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->cellListBox->value = "row_decoder"
+\a cdsLibManager->cellLineEdit->value = "row_decoder"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 14 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->libListBox->value = "Final_Project"
+\a cdsLibManager->libLineEdit->value = "Final_Project"
+\a cdsLibManager->cellListBox->value = "row_decoder"
+\a cdsLibManager->cellLineEdit->value = "row_decoder"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "GDS"
+\a cdsLibManager->libLineEdit->value = "GDS"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "SRAM8"
+\a cdsLibManager->libLineEdit->value = "SRAM8"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "ROW_DECODER"
+\a cdsLibManager->cellLineEdit->value = "ROW_DECODER"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "COL_DECODER"
+\a cdsLibManager->cellLineEdit->value = "COL_DECODER"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "ROW_DECODER"
+\a cdsLibManager->cellLineEdit->value = "ROW_DECODER"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "COL_DECODER"
+\a cdsLibManager->cellLineEdit->value = "COL_DECODER"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "ROW_DECODER"
+\a cdsLibManager->cellLineEdit->value = "ROW_DECODER"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a lmgrLogShowPopup("mainListPopup1" 82 228 2 "")
+\a cdsLibManager->cellListBox->value = "SRAM"
+\a cdsLibManager->cellLineEdit->value = "SRAM"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "SRAM_ARRAY"
+\a cdsLibManager->cellLineEdit->value = "SRAM_ARRAY"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a lmgrLogShowPopup("mainListPopup1" 73 296 2 "")
+\a cdsLibManager->CGMgui->value = t ; customval
+\a cdsLibManager->gitMenu->value = "Git GUI"
+\a cdsLibManager->mainListPopup2->value = "Git GUI"
+\a cdsLibManager->mainListPopup1->value = "Git GUI"
+\a nrSetCurrentWindow(cdsLibManager)
 \a cdsLibManager->FileNewLibButton->value = t
 \a nrSetWindowVisibility(NewLibShell "show")
 \a nrSetCurrentWindow(NewLibShell)
 \a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrResizeWindow(NewLibShell list(309 191 507 559))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(NewLibShell list(309 154 507 559))
-\a cdsLibManager->FileNewCVButton->value = t
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "basic"
-\a cdsLibManager->libLineEdit->value = "basic"
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->FileNewLibButton->value = t
-\a nrSetWindowVisibility(NewLibShell->subDialog "show")
+\a nrResizeWindow(NewLibShell list(881 93 507 559))
 \a nrSetCurrentWindow(NewLibShell)
 \a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrResizeWindow(NewLibShell list(309 228 507 559))
+\a nrResizeWindow(NewLibShell list(142 121 507 559))
 \a NewLibShell->newLibNameText->value = "SRAM8"
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/SRAM8"
 \a NewLibShell->newLibApplyButton->value = t
-\a nrSetWindowVisibility(workingDialogForm "show")
-\a nrSetCurrentWindow(workingDialogForm)
-\o Created new library "SRAM8" at /ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/SRAM8/SRAM8.
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "basic"
-\a cdsLibManager->libLineEdit->value = "basic"
-\a nrResizeWindow(workingDialogForm list(421 367 282 133))
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "basic"
-\a cdsLibManager->libLineEdit->value = "basic"
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibOKButton->value = t
 \o ERROR (CLM-287): A library by that name already exists.
 \a nrSetWindowVisibility(errorDialog "show")
 \a nrSetCurrentWindow(errorDialog)
-\a nrResizeWindow(errorDialog list(441 450 262 122))
+\a nrResizeWindow(errorDialog list(1013 352 262 122))
 \a errorDialog->errorOkButton->value = t
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(errorDialog list(441 413 262 122))
+\a nrResizeWindow(errorDialog list(1013 315 262 122))
 \a nrSetCurrentWindow(NewLibShell)
 \a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibCancelButton->value = t
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(NewLibShell list(309 191 507 559))
+\a nrSetCurrentWindow(NewLibShell)
+\a nrSetCurrentWindow(NewLibShell->subDialog)
+\a nrResizeWindow(NewLibShell list(282 178 507 559))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->libListBox->value = "SRAM8"
 \a cdsLibManager->libLineEdit->value = "SRAM8"
-\a lmgrLogShowPopup("mainListPopup1" 193 84 2 "")
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(NewLibShell->subDialog "show")
+\a nrSetWindowVisibility(NewLibShell "show")
+\a nrSetCurrentWindow(NewLibShell)
+\a nrSetCurrentWindow(NewLibShell->subDialog)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(NewLibShell list(282 141 507 559))
 \a cdsLibManager->FileNewCVButton->value = t
 \a cdsLibManager->libListBox->value = nil
 \a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->libListBox->value = "SRAM8"
 \a cdsLibManager->libLineEdit->value = "SRAM8"
 \a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "SRAM8"
+\a cdsLibManager->cellLineEdit->value = "SRAM8"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "SRAM8"
+\a cdsLibManager->cellLineEdit->value = "SRAM8"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 7 0)
 \a cdsLibManager->libListBox->value = nil
 \a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
 \a cdsLibManager->libListBox->value = "SRAM8"
 \a cdsLibManager->libLineEdit->value = "SRAM8"
-\a cdsLibManager->cellListBox->value = "SRAM"
-\a cdsLibManager->cellLineEdit->value = "SRAM"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellListBox->value = "SRAM8"
+\a cdsLibManager->cellLineEdit->value = "SRAM8"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
 \a cdsLibManager->viewLineEdit->value = ""
 \a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "SRAM"
-\a cdsLibManager->cellLineEdit->value = "SRAM"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrSetWindowVisibility(cdsLibManager "hide")
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "SRAM8"
-\a cdsLibManager->libLineEdit->value = "SRAM8"
-\a cdsLibManager->cellListBox->value = "SRAM"
-\a cdsLibManager->cellLineEdit->value = "SRAM"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "SRAM"
-\a cdsLibManager->cellLineEdit->value = "SRAM"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a nrSetWindowVisibility(cdsLibManager "show")
-\o MPS service: map window
 \a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "SRAM"
-\a cdsLibManager->cellLineEdit->value = "SRAM"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a lmgrLogShowPopup("mainListPopup1" 58 10 2 "SRAM")
-\a cdsLibManager->CGMinit->value = t ; customval
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(179 339 1024 665))
-\a cdsLibManager->gitMenu->value = "Init"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetWindowVisibility(cdsLibManager "hide")
-\a _lmgrCloseIconify("cdsLibManager" 1)
-\o MPS service: shutdown
-\o libManager is exiting.
-\a exit(0)

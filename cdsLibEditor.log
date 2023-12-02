@@ -1,0 +1,23 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.8 - CAT37 04/25/2022 00:16 (sjfdcl1109) $
+\o Sub version:		sub-version  s254 
+\o Arguments:		-cdslib /ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/cds.lib -mpssession virtuoso90823 -mpshost ece-lnx-10 
+\o Working Directory:	ece-lnx-10:/ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		5.9.1
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(0 28 500 400))
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrResizeWindow(cdsLibEditor list(378 260 500 400))
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 10 1)
+\o Active cell: 10 1 "$CDS_SITE/GPDK180/libs.oa22/substrateLib"
+\a nrListItemAction(cdsLibEditor->mainTable 15 0)
+\o Active cell: 15 0 "Final_Project"
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrResizeWindow(cdsLibEditor list(122 95 500 400))
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrResizeWindow(cdsLibEditor list(759 218 500 400))
+\a exit(0)

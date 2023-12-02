@@ -1,0 +1,42 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'SRAM_ARRAY layout SRAM8':
+  info: Assign pin label "GND" at (-2.3575, -3.0750) to layer `metal3_conn'.
+  info: Assign pin label "VDD" at (2.3600, -1.4350) to layer `metal3_conn'.
+  info: Assign pin label "WL_3" at (-2.6000, -3.8350) to layer `metal2_conn'.
+  info: Assign pin label "Q_6" at (-1.4550, -4.1150) to layer `metal2_conn'.
+  info: Assign pin label "WL_2" at (-2.6000, -2.3200) to layer `metal2_conn'.
+  info: Assign pin label "Q_6" at (-0.7400, -4.1050) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_6" at (-0.9100, -3.4900) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_4" at (-0.9100, -2.6600) to layer `metal2_conn'.
+  info: Assign pin label "Q_7" at (0.5950, -4.1150) to layer `metal2_conn'.
+  info: Assign pin label "Q_4" at (-1.4550, -2.0450) to layer `metal2_conn'.
+  info: Assign pin label "WL_1" at (-2.6000, -0.5550) to layer `metal2_conn'.
+  info: Assign pin label "Q_7" at (1.3100, -4.1050) to layer `metal2_conn'.
+  info: Assign pin label "Q_4" at (-0.7400, -2.0450) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_7" at (1.1400, -3.4900) to layer `metal2_conn'.
+  info: Assign pin label "Q_2" at (-1.4550, -0.8300) to layer `metal2_conn'.
+  info: Assign pin label "WL_0" at (-2.6000, 0.9600) to layer `metal2_conn'.
+  info: Assign pin label "Q_2" at (-0.7400, -0.8300) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_5" at (1.1400, -2.6600) to layer `metal2_conn'.
+  info: Assign pin label "Q_5" at (0.5950, -2.0450) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_2" at (-0.9100, -0.2150) to layer `metal2_conn'.
+  info: Assign pin label "Q_5" at (1.3100, -2.0450) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_0" at (-0.9100, 0.6200) to layer `metal2_conn'.
+  info: Assign pin label "Q_3" at (0.5950, -0.8300) to layer `metal2_conn'.
+  info: Assign pin label "Q_0" at (-1.4550, 1.2350) to layer `metal2_conn'.
+  info: Assign pin label "CLK" at (-2.5850, 2.5800) to layer `metal2_conn'.
+  info: Assign pin label "Q_3" at (1.3100, -0.8300) to layer `metal2_conn'.
+  info: Assign pin label "Q_0" at (-0.7400, 1.2350) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_3" at (1.1400, -0.2150) to layer `metal2_conn'.
+  info: Assign pin label "Q_B_1" at (1.1400, 0.6200) to layer `metal2_conn'.
+  info: Assign pin label "Q_1" at (0.5950, 1.2350) to layer `metal2_conn'.
+  info: Assign pin label "Q_1" at (1.3100, 1.2350) to layer `metal2_conn'.
+  info: Assign pin label "BL_0" at (-1.8400, 1.9250) to layer `metal1_conn'.
+  info: Assign pin label "BL_B_0" at (-0.2400, 1.9250) to layer `metal1_conn'.
+  info: Assign pin label "BL_1" at (0.2100, 1.9250) to layer `metal1_conn'.
+  info: Assign pin label "BL_B_1" at (1.8100, 1.9250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

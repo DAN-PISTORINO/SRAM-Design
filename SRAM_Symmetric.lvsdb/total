@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 device net parameter pin rewire total
+1  5 (( ( S "SRAM_Symmetric layout SRAM8" )( L "SRAM_Symmetric schematic SRAM8" ) )(( 1 4 3 )( 4 2 0 )( 3 0 1 )))

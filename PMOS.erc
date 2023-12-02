@@ -1,0 +1,9 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'PMOS layout SRAM8':
+  info: Assign pin label "S" at (-0.1250, 0.0050) to layer `metal1_conn'.
+  info: Assign pin label "D" at (0.0800, 0.0050) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      daniel.pistorino
+HostName                       ece-lnx-10.ad.ufl.edu
+ProcessIdentifier              91080
+ProcessCreationTime_UTC        1701531728
+ProcessCreationTime_Readable   Sat Dec  2 10:42:08 2023 EST
+AppIdentifier                  /apps/cds/ic618/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/libManager.log
+TimeEditLocked                 Sat Dec  2 10:44:06 2023 EST

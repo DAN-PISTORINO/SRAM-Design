@@ -1,0 +1,6 @@
+Schematic                        | Layout                        | Status
+-------------------------------------------------------------------------------
+SRAM_Symmetric schematic SRAM8   | SRAM_Symmetric layout SRAM8   | errors    *
+
+Mismatch between Schematic and Layout
+   1 cell with errors

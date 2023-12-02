@@ -1,0 +1,7 @@
+Schematic                        | Layout                        | Status
+-------------------------------------------------------------------------------
+nand3 schematic Final_Project    | nand3 layout Final_Project    | matched  
+inverter schematic Final_Project | inverter layout Final_Project | matched  
+ROW_DECODER schematic SRAM8      | ROW_DECODER layout SRAM8      | matched  
+
+Schematic and Layout Match

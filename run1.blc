@@ -1,0 +1,7 @@
+"nand3 layout Final_Project" "nand3 schematic Final_Project" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"inverter layout Final_Project" "inverter schematic Final_Project" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"ROW_DECODER layout SRAM8" "ROW_DECODER schematic SRAM8"
+Devices filtered from layout
+"TIE"

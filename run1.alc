@@ -1,0 +1,4 @@
+!<alc> v1 29
+0   10    0 nand3 layout Final_Project
+0    9    0 inverter layout Final_Project
+0   11    0 ROW_DECODER layout SRAM8

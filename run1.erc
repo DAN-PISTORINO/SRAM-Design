@@ -1,0 +1,32 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'ROW_DECODER layout SRAM8':
+  info: Assign pin label "B" at (0.3200, 1.6300) to layer `metal1_conn'.
+  info: Assign pin label "CLK" at (0.3400, 2.8050) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (1.0750, 2.6700) to layer `metal1_conn'.
+  info: Assign pin label "WL3" at (3.6800, 1.0950) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.3400, 4.4850) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.0350, 2.8950) to layer `metal1_conn'.
+  info: Assign pin label "WL2" at (3.6800, 2.3800) to layer `metal1_conn'.
+  info: Assign pin label "WL1" at (3.6800, 3.6750) to layer `metal1_conn'.
+  info: Assign pin label "WL0" at (3.6800, 4.9400) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'ROW_DECODER layout SRAM8':
+  info: Assign pin label "B" at (0.3200, 1.6300) to layer `metal1_conn'.
+  info: Assign pin label "CLK" at (0.3400, 2.8050) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (1.0750, 2.6700) to layer `metal1_conn'.
+  info: Assign pin label "WL3" at (3.6800, 1.0950) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.3400, 4.4850) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.0350, 2.8950) to layer `metal1_conn'.
+  info: Assign pin label "WL2" at (3.6800, 2.3800) to layer `metal1_conn'.
+  info: Assign pin label "WL1" at (3.6800, 3.6750) to layer `metal1_conn'.
+  info: Assign pin label "WL0" at (3.6800, 4.9400) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

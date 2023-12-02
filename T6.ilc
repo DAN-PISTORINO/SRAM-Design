@@ -1,0 +1,6 @@
+SRAM8 NW_BLK layout 22
+SRAM8 PW_BLK layout 18
+gpdk045 nmos1v layout 236
+gpdk045 nmos1v layout 236
+gpdk045 pmos1v layout 236
+SRAM8 SRAM_Symmetric layout 58

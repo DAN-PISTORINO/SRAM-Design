@@ -1,0 +1,201 @@
+*WARNING* Nets C37 and C35 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C38 and C36 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C39 and C35 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C32 and C31 are associated with the same label "WL_0" at (-2.0200, -2.2200). See .erc file  for  details.
+*WARNING* Nets C33 and C31 are associated with the same label "WL_0" at (-2.0200, -0.5550). See .erc file  for  details.
+*WARNING* Nets C34 and C31 are associated with the same label "WL_0" at (-2.0200, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C24 and C23 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C22 and C21 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C25 and C23 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0200, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0200, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0200, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C6 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C9 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C6 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0200, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0200, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0200, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C6 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C6 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0200, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0200, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0200, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0200, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0200, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0200, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C5 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C7 and C5 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C5 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C6 and C5 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C8 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C6 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C8 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C7 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C8 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C5 and C7 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C6 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C5 and C25 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C8 and C6 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C24 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C5 and C6 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C7 and C24 are associated with the same label "VDD" at (-2.0100, -1.3900). See .erc file  for  details.
+*WARNING* Nets C6 and C5 are associated with the same label "GND" at (-2.0100, 0.2000). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C5 and C24 are associated with the same label "VDD" at (-1.9850, -1.3900). See .erc file  for  details.
+*WARNING* Nets C23 and C6 are associated with the same label "GND" at (-2.0100, 0.1950). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C24 are associated with the same label "VDD" at (-1.9900, -1.3950). See .erc file  for  details.
+*WARNING* Nets C23 and C5 are associated with the same label "GND" at (-2.0100, 0.1950). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C24 are associated with the same label "VDD" at (-1.9900, -1.3950). See .erc file  for  details.
+*WARNING* Nets C23 and C5 are associated with the same label "GND" at (-2.0100, 0.1950). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C6 and C24 are associated with the same label "VDD" at (-1.9900, -1.3950). See .erc file  for  details.
+*WARNING* Nets C23 and C5 are associated with the same label "GND" at (-2.0100, 0.1950). See .erc file  for  details.
+*WARNING* Nets C25 and C24 are associated with the same label "VDD" at (-2.0100, 1.8000). See .erc file  for  details.
+*WARNING* Nets C27 and C26 are associated with the same label "WL_0" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C28 and C26 are associated with the same label "WL_0" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C29 and C26 are associated with the same label "WL_0" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* 6 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C23 and C5 are associated with the same label "GND" at (-2.0100, -3.7350). See .erc file  for  details.
+*WARNING* Nets C24 and C5 are associated with the same label "GND" at (-2.0100, -2.2200). See .erc file  for  details.
+*WARNING* Nets C25 and C5 are associated with the same label "GND" at (-2.0100, -0.5550). See .erc file  for  details.
+*WARNING* Nets C26 and C5 are associated with the same label "GND" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* Nets C1 and C5 are associated with the same label "GND" at (-1.8400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C2 and C5 are associated with the same label "GND" at (-0.2400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C3 and C5 are associated with the same label "GND" at (0.2100, 1.9650). See .erc file  for  details.
+*WARNING* Nets C4 and C5 are associated with the same label "GND" at (1.8100, 1.9600). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C26 and C5 are associated with the same label "GND" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* Nets C1 and C5 are associated with the same label "GND" at (-1.8400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C2 and C5 are associated with the same label "GND" at (-0.2400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C3 and C5 are associated with the same label "GND" at (0.2100, 1.9650). See .erc file  for  details.
+*WARNING* Nets C4 and C5 are associated with the same label "GND" at (1.8100, 1.9600). See .erc file  for  details.
+*WARNING* 5 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C26 and C13 are associated with the same label "GND" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* Nets C8 and C13 are associated with the same label "GND" at (-1.8400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C9 and C13 are associated with the same label "GND" at (-0.2400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C11 and C13 are associated with the same label "GND" at (0.2100, 1.9650). See .erc file  for  details.
+*WARNING* Nets C12 and C13 are associated with the same label "GND" at (1.8100, 1.9600). See .erc file  for  details.
+*WARNING* 5 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C26 and C13 are associated with the same label "GND" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* Nets C8 and C13 are associated with the same label "GND" at (-1.8400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C9 and C13 are associated with the same label "GND" at (-0.2400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C11 and C13 are associated with the same label "GND" at (0.2100, 1.9650). See .erc file  for  details.
+*WARNING* Nets C12 and C13 are associated with the same label "GND" at (1.8100, 1.9600). See .erc file  for  details.
+*WARNING* 5 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.
+*WARNING* Nets C26 and C13 are associated with the same label "GND" at (-2.0100, 0.9600). See .erc file  for  details.
+*WARNING* Nets C8 and C13 are associated with the same label "GND" at (-1.8400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C9 and C13 are associated with the same label "GND" at (-0.2400, 1.9650). See .erc file  for  details.
+*WARNING* Nets C11 and C13 are associated with the same label "GND" at (0.2100, 1.9650). See .erc file  for  details.
+*WARNING* Nets C12 and C13 are associated with the same label "GND" at (1.8100, 1.9600). See .erc file  for  details.
+*WARNING* 5 same-label  warnings found in cell 'SRAM_ARRAY layout SRAM8'.

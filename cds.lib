@@ -1,6 +1,10 @@
+# File Created by daniel.pistorino at Sat Dec  2 10:45:50 2023
+# assisted by CdsLibEditor
 INCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
 DEFINE gpdk180 $CDS_SITE/GPDK180/libs.oa22/gpdk180
 DEFINE substrateLib $CDS_SITE/GPDK180/libs.oa22/substrateLib
 DEFINE gpdk045 $CDS_SITE/GPDK045/gpdk045
 DEFINE avTech /apps/cds/assura/tools.lnx86/assura/etc/avtech/avTech
 DEFINE SRAM8 /ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/SRAM8/SRAM8
+DEFINE GDS /ecel/UFAD/daniel.pistorino/Documents/Cadence/SRAM/SRAM-Design/GDS
+DEFINE Final_Project /home/UFAD/daniel.pistorino/Documents/Cadence/SRAM/Final_Project

@@ -1,0 +1,200 @@
+================================================================================
+Rule No. 221 : psubstrate_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.255       -0.150       0.210        0.165
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.255     -0.150      0.210      0.165
+
+================================================================================
+Rule No. 227 : nwell_conn_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.245       -0.115       0.200        0.125
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.245     -0.115      0.200      0.125
+
+================================================================================
+Rule No. 253 : NW.W.1: Minimum Nwell Width >= 0.3 um
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.245       -0.115       0.200        0.125
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.245     -0.115      0.200      0.125
+
+================================================================================
+Rule No. 271 : NW.A.1: Minimum Nwell area >= 0.18 um
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.245       -0.115       0.200        0.125
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.245     -0.115      0.200      0.125
+
+================================================================================
+Rule No. 351 : POLY.E.2: Minimum P-channel gate extension beyond Active Area >= 0.1 um
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.045       -0.150       0.000       -0.055
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.045     -0.150      0.000     -0.055
+
+================================================================================
+Rule No. 359 : POLY.A.1: Minimum area for Poly interconnect >= 0.02 um
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.045       -0.150       0.000        0.165
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.045     -0.150      0.000      0.165
+
+================================================================================
+Rule No. 399 : PIMP.E.4: Minimum P+ Implant to gate (endcap) enclosure >= 0.1 um
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.076       -0.150       0.031       -0.055
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.076     -0.150      0.031     -0.055
+
+================================================================================
+Rule No. 597 : METAL1.A.1: Metal1 area must be >= 0.02 um
+
+Real Error Count : 2; Flat Error Count : 2
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             2              2                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.155       -0.055       0.110        0.065
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.155     -0.055     -0.095      0.065
+   2      X        0.050     -0.055      0.110      0.065
+
+================================================================================
+Rule No. 678 : LATCHUP.1: The maximum distance from any point in a P+ source/drain Active Area to the nearest Nwell pick-up in the same Nwell >= 20.0 um
+
+Real Error Count : 2; Flat Error Count : 2
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : PMOS layout SRAM8
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             2              2                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -0.185       -0.055       0.140        0.065
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -0.185     -0.055     -0.045      0.065
+   2      X        0.000     -0.055      0.140      0.065
+

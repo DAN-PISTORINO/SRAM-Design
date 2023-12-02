@@ -1,0 +1,61 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "nand3 schematic Final_Project" "nand3 layout Final_Project"
+N VDD avC8
+N VSS avT598_1
+N A avC4
+N B avC5
+N C avC6
+N OUTPUT avC7
+I NM2 avD2_1
+I NM0 avD2_3
+I NM1 avD2_2
+I PM2 avD10_1
+I PM1 avD10_2
+I PM0 avD10_3
+
+C "inverter schematic Final_Project" "inverter layout Final_Project"
+N INPUT avC2
+N OUTPUT avC3
+N VDD avC4
+N VSS avT598_1
+I NM0 avD2_1
+I PM0 avD10_1
+
+C "ROW_DECODER schematic SRAM8" "ROW_DECODER layout SRAM8"
+N net3 avC11
+N NOT_A avC13
+N NOT_B avC10
+N net1 avC15
+N net2 avC12
+N net4 avC14
+N A A
+N B B
+N CLK CLK
+N VDD VDD
+N VSS VSS
+N WL0 WL0
+N WL2 WL2
+N WL3 WL3
+N WL1 WL1
+I I9 I9
+I I8 I8
+I I7 I7
+I I6 I6
+I I1 I1
+I I0 I0
+I I5 I5
+I I4 I4
+I I3 I3
+I I2 I2
+

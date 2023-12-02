@@ -1,0 +1,27 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "SRAM_Symmetric schematic SRAM8" "SRAM_Symmetric layout SRAM8"
+N VDD VDD
+N GND GND
+N Q Q
+N Q_B avC7
+N BL BL
+N BL_B BL_B
+N WL WL
+I PM1 avD2_1
+I PM0 avD2_4
+I NM3 avD2_2
+I NM0 avD2_3
+I NM2 avD10_1
+I NM1 avD10_2
+

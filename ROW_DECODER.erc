@@ -1,0 +1,25 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'ROW_DECODER layout SRAM8':
+  info: Assign pin label "B" at (0.3200, 1.6300) to layer `metal1_conn'.
+  info: Assign pin label "CLK" at (0.3400, 2.8050) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (1.0750, 2.6700) to layer `metal1_conn'.
+  info: Assign pin label "WL3" at (3.6800, 1.0950) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.3400, 4.4850) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.0350, 2.8950) to layer `metal1_conn'.
+  info: Assign pin label "WL2" at (3.6800, 2.3800) to layer `metal1_conn'.
+  info: Assign pin label "WL1" at (3.6800, 3.6750) to layer `metal1_conn'.
+  info: Assign pin label "WL0" at (3.6800, 4.9400) to layer `metal1_conn'.
+  info: Floating label discarded:  "WL_2" at (3.9350, 2.5400).
+  info: Floating label discarded:  "WL_3" at (3.9300, 1.2250).
+  info: Floating label discarded:  "CLK" at (0.0700, 2.7800).
+  info: Floating label discarded:  "B" at (0.1250, 1.6200).
+  info: Floating label discarded:  "VDD" at (0.0100, 5.4500).
+  info: Floating label discarded:  "WL_1" at (3.9150, 3.7850).
+  info: Floating label discarded:  "WL_0" at (3.9250, 4.8100).
+  info: Floating label discarded:  "CLK" at (2.1050, 5.6650).
+  info: Floating label discarded:  "A" at (-0.2150, 4.6200).
+
+***** End of Label Report *****
+
